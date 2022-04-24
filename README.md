@@ -1,6 +1,6 @@
 # Portfolio
 
-Oleksii Merkulov
+[Oleksii Merkulov](https://alexmercury.github.io/)
 
 ## Development
 
