@@ -29,6 +29,10 @@ jekyll-theme-experiment:
         link: portfolio/2014/10/10/max-app.html
         github: 
         img_relative_url: /assets/images/max-app.jpeg
+      - name: Interpreters Travel
+        link: portfolio/2013/08/12/interpreters-travel.html
+        github: 
+        img_relative_url: /assets/images/interpreters-travel.png
 
   tools:
     title: Tools and Experience 
