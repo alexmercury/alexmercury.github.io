@@ -1,9 +1,10 @@
-theme: jekyll-theme-experiment
+# theme: jekyll-theme-experiment
+remote_theme: anxhe/jekyll-theme-experiment
 
 title: Oleksii Merkulov 🇺🇦
 description: >-
   Greetings!</br>
-  My name is Oleksii(Alex) Merkulov.
+  My name is Oleksii Merkulov <em>(Alex)</em>.
   I am a Ruby on Rails developer with over 10 years of experience and
   can help you with your project of any complexity.</br>
   I am ready for various tasks:</br>
@@ -38,6 +39,7 @@ excerpt_separator: <!--more-->
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 exclude:
   - .sass-cache/
