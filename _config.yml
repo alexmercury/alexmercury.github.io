@@ -25,6 +25,10 @@ jekyll-theme-experiment:
   portfolio:
     title: My Portfolio
     projects:
+      - name: Tipnpost
+        link: portfolio/2017/11/09/tipnpost.html
+        github: 
+        img_relative_url: /assets/images/tipnpost.png
       - name: PIMS
         link: portfolio/2015/01/01/pims.html
         github: 
