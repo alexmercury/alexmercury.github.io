@@ -25,19 +25,23 @@ jekyll-theme-experiment:
   portfolio:
     title: My Portfolio
     projects:
-      - name: Tipnpost
-        link: portfolio/2017/11/09/tipnpost.html
+      - name: artGuideBook [2017]
+        link: portfolio/2017/11/25/art-guide-book.html
+        github: 
+        img_relative_url: /assets/images/art-guide-book.png
+      - name: Tipnpost [2017]
+        link: portfolio/2017/09/19/tipnpost.html
         github: 
         img_relative_url: /assets/images/tipnpost.png
-      - name: PIMS
+      - name: PIMS [2015]
         link: portfolio/2015/01/01/pims.html
         github: 
         img_relative_url: /assets/images/lendlease.png
-      - name: MaxApp
+      - name: MaxApp [2014]
         link: portfolio/2014/10/10/max-app.html
         github: 
         img_relative_url: /assets/images/max-app.jpeg
-      - name: Interpreters Travel
+      - name: Interpreters Travel [2013]
         link: portfolio/2013/08/12/interpreters-travel.html
         github: 
         img_relative_url: /assets/images/interpreters-travel.png
