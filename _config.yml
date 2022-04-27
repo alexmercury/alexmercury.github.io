@@ -25,6 +25,10 @@ jekyll-theme-experiment:
   portfolio:
     title: My Portfolio
     projects:
+      - name: PIMS
+        link: portfolio/2015/01/01/pims.html
+        github: 
+        img_relative_url: /assets/images/lendlease.png
       - name: MaxApp
         link: portfolio/2014/10/10/max-app.html
         github: 
