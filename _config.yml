@@ -25,6 +25,10 @@ jekyll-theme-experiment:
   portfolio:
     title: My Portfolio
     projects:
+      - name: GroupBuy [2019]
+        link: portfolio/2019/11/20/group-buy.html
+        github: 
+        img_relative_url: /assets/images/group-buy-web.png
       - name: Eats Time [2018]
         link: portfolio/2018/01/12/eats-time.html
         github: 
