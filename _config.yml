@@ -25,6 +25,10 @@ jekyll-theme-experiment:
   portfolio:
     title: My Portfolio
     projects:
+      - name: Modularity [2022]
+        link: portfolio/2022/01/01/modularity.html
+        github: 
+        img_relative_url: /assets/images/modularity.png
       - name: Chime [2021]
         link: portfolio/2021/10/25/chime.html
         github: 
