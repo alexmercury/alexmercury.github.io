@@ -25,6 +25,10 @@ jekyll-theme-experiment:
   portfolio:
     title: My Portfolio
     projects:
+      - name: Eats Time [2018]
+        link: portfolio/2018/01/12/eats-time.html
+        github: 
+        img_relative_url: /assets/images/eats-time.png
       - name: artGuideBook [2017]
         link: portfolio/2017/11/25/art-guide-book.html
         github: 
