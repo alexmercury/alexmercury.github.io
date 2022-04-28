@@ -25,6 +25,10 @@ jekyll-theme-experiment:
   portfolio:
     title: My Portfolio
     projects:
+      - name: Chime [2021]
+        link: portfolio/2021/10/25/chime.html
+        github: 
+        img_relative_url: /assets/images/chime.png
       - name: GroupBuy [2019]
         link: portfolio/2019/11/20/group-buy.html
         github: 
