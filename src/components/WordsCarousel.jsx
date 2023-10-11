@@ -22,7 +22,7 @@ const WordsCarousel = function ({ text, items }) {
   const item = items[index]
 
   return (
-    <span className="inline-flex flex-row items-end" style={{height: "1em"}}>
+    <span className="inline-flex flex-row items-start justify-start">
       <span className="whitespace-nowrap">{text}&nbsp;</span>
       <Transition
         appear={true}
@@ -35,7 +35,7 @@ const WordsCarousel = function ({ text, items }) {
         leaveFrom="w-full"
         leaveTo="w-0"
       >
-        <span className="overflow-hidden transition-all whitespace-nowrap border-r-2 border-white animate-border-blink">
+        <span className="max-w-min overflow-hidden transition-all whitespace-nowrap border-r-2 border-white animate-border-blink">
           {item}&nbsp;
         </span>
       </Transition>
