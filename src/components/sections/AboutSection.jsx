@@ -1,6 +1,5 @@
 import PropTypes from "prop-types"
 import {
-  Briefcase,
   Linkedin,
   Github,
   Skype,
@@ -17,14 +16,6 @@ import avatarX5 from "/img/avatar/1280.jpeg"
 const AboutSection = function ({ profile }) {
   return (
     <section className="container mx-auto pb-12">
-      <div className="flex flex-row items-center justify-between px-4 py-4 sm:px-6 sm:py-6">
-        <Briefcase size={48} className="text-yellow-500" />
-
-        <div className="basis-auto sm:basis-64 text-center text-white text-xl lg:text-2xl font-bold">
-          {profile.fullName}
-        </div>
-      </div>
-
       <div className="flex flex-col sm:flex-row justify-between items-center sm:items-start space-y-10 sm:space-y-0 sm:space-x-10 px-4">
         <div className="pt-4 sm:pt-12">
           <h1 className="text-yellow-500 text-3xl font-bold">{profile.title}</h1>
@@ -37,7 +28,7 @@ const AboutSection = function ({ profile }) {
             {profile.descriptions.join("\n")}
           </div>
 
-          <div className="flex flex-row space-x-6 items-center pt-6">
+          <div className="flex flex-row space-x-6 items-center pt-8">
             <SocialIconLink href={profile.social.linkedin} icon={Linkedin} />
             <SocialIconLink href={profile.social.github} icon={Github} />
             <SocialIconLink href={profile.social.skype} icon={Skype} />
