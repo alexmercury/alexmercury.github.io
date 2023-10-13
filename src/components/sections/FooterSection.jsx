@@ -7,7 +7,7 @@ const FooterSection = function () {
     <footer className="container mx-auto px-4 py-6 flex flex-col items-center md:space-y-0 md:flex-row md:justify-between border-t-2 border-yellow-500">
       <div className="order-2 pt-4 md:order-1 md:pt-0">
         <p className="text-white font-bold text-lg md:text-xl text-center">
-          <span className="text-yellow-500">&copy; {new Date().getFullYear() } Alex Merculov.&nbsp;</span>
+          <span className="text-yellow-500">&copy; {new Date().getFullYear() } Alex Merkulov.&nbsp;</span>
           <span>All rights reserved.</span>
         </p>
       </div>
