@@ -1,27 +1,17 @@
 import PropTypes from "prop-types"
 import { Link } from "react-router-dom"
 import { ArrowRightCircle } from "react-bootstrap-icons"
+import ImgMedia from "../../ImgMedia"
 
 const ImageLink = function ({ project }) {
-  let srcSetStr = ""
-
-  for (const [key, value] of Object.entries(project.img)) {
-    if (key === "x") {
-      srcSetStr += value
-    } else {
-      srcSetStr += `, ${value} ${key}`
-    }
-  }
-
   return (
     <Link
       to={`projects/${project.id}`}
       className="transition-all block mx-auto relative m-0 p-0 max-h-64 max-w-lg w-full overflow-hidden rounded-sm shadow-lg shadow-transparent group-hover:shadow-gray-700"
     >
-      <img
+      <ImgMedia
         className="transition duration-500 scale-100 ease-out group-hover:scale-105"
-        src={project.img.x}
-        srcSet={srcSetStr}
+        img={project.img}
         alt={project.title}
       />
 
