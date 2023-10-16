@@ -1,0 +1,78 @@
+{
+  "title": "GroupBuy",
+  "avaliable": true,
+  "img": {
+    "x": "/img/projects/6/1024x512.jpeg",
+    "2x": "/img/projects/6/2048x1024.jpeg",
+    "3x": "/img/projects/6/3072x1536.jpeg"
+  },
+  "img2": {
+    "x": "/img/projects/6/img/1024x512.jpeg",
+    "2x": "/img/projects/6/img/2048x1024.jpeg",
+    "3x": "/img/projects/6/img/3072x1536.jpeg"
+  },
+  "date": {
+    "from": "1 Nov 2018",
+    "to": "27 Sep 2021"
+  },
+  "links": {
+    "website": {
+      "title": "wms.group-buy.dk",
+      "href": "https://wms.group-buy.dk"
+    }
+  },
+  "description": [
+    "Private system for warehouses in Denmark. System has integration for products import (image, description, price, etc) from supplier API Big Buy, Bokinfo, Gardners and API for webshop integration (creating an order and paying using payment system)",
+    "WMS functionality: Managing user accounts/profiles (change role, edit data, login user by API key); Order management; Membership for buyers (statistics, subscription); Webshops management (export products and categories, add/remove product, ...) WMS has integration for webshop sites (add product to cart, checkout API, etc.); Warehouses management (product batch management, product locations, dropshipping, some stock staff actions); Supplier management (create supplier-order, shipment, delivery, etc.); Products management (edit product, bulk update some fields); Generate some reports for internal use."
+  ],
+  "myTasks": [
+    "Develop an admin dashboard to manage all things related to the warehouse",
+    "Write a Ruby S3 wrapper to save/edit/update all file types",
+    "New functional for PDF file generation (Reports, Orders, etc.)",
+    "Develop a data parser for XML, CSV, XLS file types",
+    "Develop importer module for Gardners (getting all product data by SKU (image, name, description, etc.))",
+    "Add payment integration for QuickPay with full functionality (cards, refunds, transactions, etc.)",
+    "Develop mapper for products categories (import/export to webshops)",
+    "Create JS lib for shopping cart functionality (add it to the webshop HTML)",
+    "Refactoring and code review",
+    "Manual testing and writing RSpec tests"
+  ],
+  "techList": [
+    {
+      "name": "Amazon S3",
+      "url": "https://aws.amazon.com/s3"
+    },
+    {
+      "name": "PostgreSQL",
+      "url": "https://www.postgresql.org"
+    },
+    {
+      "name": "QuickPay",
+      "url": "https://quickpay.net"
+    },
+    {
+      "name": "Rails 6.1.4",
+      "url": "https://rubyonrails.org"
+    },
+    {
+      "name": "Redis",
+      "url": "https://redis.io"
+    },
+    {
+      "name": "RSpec",
+      "url": "https://rspec.info"
+    },
+    {
+      "name": "Ruby 2.7.4",
+      "url": "https://www.ruby-lang.org"
+    },
+    {
+      "name": "Sidekiq",
+      "url": "https://sidekiq.org"
+    },
+    {
+      "name": "VueJS",
+      "url": "https://vuejs.org"
+    }
+  ]
+}
