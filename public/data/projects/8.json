@@ -1,0 +1,90 @@
+{
+  "title": "Modularity",
+  "avaliable": true,
+  "img": {
+    "x": "/img/projects/8/1024x512.jpeg",
+    "2x": "/img/projects/8/2048x1024.jpeg",
+    "3x": "/img/projects/8/3072x1536.jpeg"
+  },
+  "img2": {
+    "x": "/img/projects/8/img/1024x512.jpeg",
+    "2x": "/img/projects/8/img/2048x1024.jpeg",
+    "3x": "/img/projects/8/img/3072x1536.jpeg"
+  },
+  "date": {
+    "from": "21 Jan 2022",
+    "to": "28 Mar 2022"
+  },
+  "links": {
+    "website": {
+      "title": "modularity.ai",
+      "href": "https://modularity.ai"
+    }
+  },
+  "description": [
+    "Modularity the Collaborative Finance Platform. Headcount Planning, Budget Variance Reporting, Procurement & Purchasing. When you’ve built your model and you need to manage spend, budgets, and headcount in one easy-to-use platform, try Modularity.",
+    "Pulling data from existing FP&A systems and back-and-forth emailing with each department separately. Building static dashboards that aren’t actionable and don’t give managers the ability to transparently spend, request, and prioritize budgets in a way that they see most effective. Context for decision making, strategy, and prioritization getting lost in one-off emails. Best-guess spend and headcount forecasting for months ahead that became obsolete when business priorities changed."
+  ],
+  "myTasks": [
+    "Docker container optimization (MacOS)",
+    "API integration (QuickBooks, NetSuite)",
+    "Application monitoring (Sentry)",
+    "SendGrid - sending mail (using dynamic templates), notify users, sending default Devise gem mailer, developed testing via mailcatcher.",
+    "Refactoring and code review.",
+    "Manual testing and writing RSpec tests"
+  ],
+  "techList": [
+    {
+      "name": "Amazon EC2",
+      "url": "https://aws.amazon.com/ec2"
+    },
+    {
+      "name": "Amazon S3",
+      "url": "https://aws.amazon.com/s3"
+    },
+    {
+      "name": "Docker",
+      "url": "https://www.docker.com"
+    },
+    {
+      "name": "NetSuite",
+      "url": "https://www.netsuite.com"
+    },
+    {
+      "name": "PostgreSQL",
+      "url": "https://www.postgresql.org"
+    },
+    {
+      "name": "QuickBooks",
+      "url": "https://quickbooks.intuit.com"
+    },
+    {
+      "name": "Rails 6.1.5",
+      "url": "https://rubyonrails.org"
+    },
+    {
+      "name": "React 17.0.2",
+      "url": "https://reactjs.org"
+    },
+    {
+      "name": "Redis",
+      "url": "https://redis.io"
+    },
+    {
+      "name": "RSpec",
+      "url": "https://rspec.info"
+    },
+    {
+      "name": "Ruby 3.0.3",
+      "url": "https://www.ruby-lang.org"
+    },
+    {
+      "name": "SendGrid",
+      "url": "https://sendgrid.com"
+    },
+    {
+      "name": "Sentry",
+      "url": "https://sentry.io"
+    }
+  ]
+}

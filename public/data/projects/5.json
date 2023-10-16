@@ -1,0 +1,60 @@
+{
+  "title": "Eats Time",
+  "avaliable": false,
+  "img": {
+    "x": "/img/projects/5/1024x512.jpeg",
+    "2x": "/img/projects/5/2048x1024.jpeg",
+    "3x": "/img/projects/5/3072x1536.jpeg"
+  },
+  "img2": {
+    "x": "/img/projects/5/img/1024x512.jpeg",
+    "2x": "/img/projects/5/img/2048x1024.jpeg",
+    "3x": "/img/projects/5/img/3072x1536.jpeg"
+  },
+  "date": {
+    "from": "4 Jan 2018",
+    "to": "12 Feb 2018"
+  },
+  "links": {},
+  "description": [
+    "Eats Time is a booking app, centered on reserving tables and making orders in particular restaurants, filtered by rating. User can choose dishes and drinks, choose number of people on one table, date and time of the order and pay for it. Then user can rate the restaurant and leave a review.",
+    "Each restaurant has its own table numbers and free seats. In the mobile application there are lists of dishes and drinks available for ordering from the menu. You pay for your order and book a table without leaving home."
+  ],
+  "myTasks": [
+    "Develop REST API application from scratch (used RailsAPI)",
+    "Creation and improvement of the admin dashboard panel gem \"ActiveAdmin\"",
+    "Develop order payment system using Braintree",
+    "Manual testing and writing RSpec tests",
+    "Deployment of the project on Heroku in production and staging modes"
+  ],
+  "techList": [
+    {
+      "name": "Braintree",
+      "url": "https://www.braintreepayments.com"
+    },
+    {
+      "name": "Heroku",
+      "url": "https://www.heroku.com"
+    },
+    {
+      "name": "PostGIS",
+      "url": "https://postgis.net"
+    },
+    {
+      "name": "PostgreSQL",
+      "url": "https://www.postgresql.org"
+    },
+    {
+      "name": "Rails 5.1.4",
+      "url": "https://rubyonrails.org"
+    },
+    {
+      "name": "RSpec",
+      "url": "https://rspec.info"
+    },
+    {
+      "name": "Ruby 2.4.2",
+      "url": "https://www.ruby-lang.org"
+    }
+  ]
+}

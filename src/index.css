@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.list-img-task {
+  list-style-image: image-set(
+    url("img/task/16.png") 1x,
+    url("img/task/32.png") 2x,
+    url("img/task/64.png") 4x,
+    url("img/task/128.png") 6x
+  );
+}
+
+@layer components {
+  .proj {
+    position: relative;
+    left: 3rem;
+    width: calc(100% - 3rem);
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 100vh;
+  } 
+
+  @screen md {
+    .proj {
+      left: 8rem;
+      width: calc(100% - 8rem);
+    }
+  }
+
+  @screen lg {
+    .proj {
+      left: 35%;
+      width: 65%;
+    }
+  }
+
+  @screen xl {
+    .proj {
+      left: 20%;
+      width: 80%;
+    }
+  }
+
+  @screen 2xl {
+    .proj {
+      left: 20%;
+      width: 80%;
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "title": "PIMS",
+  "avaliable": true,
+  "img": {
+    "x": "/img/projects/2/1024x512.jpeg",
+    "2x": "/img/projects/2/2048x1024.jpeg",
+    "3x": "/img/projects/2/3072x1536.jpeg"
+  },
+  "img2": {
+    "x": "/img/projects/2/img/1024x512.jpeg",
+    "2x": "/img/projects/2/img/2048x1024.jpeg",
+    "3x": "/img/projects/2/img/3072x1536.jpeg"
+  },
+  "date": {
+    "from": "1 Jan 2015",
+    "to": "17 Nov 2015"
+  },
+  "links": {
+    "website": {
+      "title": "pims.lendlease.com",
+      "href": "https://pims.lendlease.com"
+    },
+    "home": {
+      "title": "lendlease.com",
+      "href": "https://www.lendlease.com/au/"
+    }
+  },
+  "description": [
+    "Lendlease is a globally integrated real estate and investment group with core expertise in shaping cities and creating strong and connected communities. Being bold and innovative characterises our approach and doing what matters defines our intent. We create award-winning urban precincts, new communities for older people and young families just starting out, retail precincts, and work places to the highest sustainability standards. We are also privileged to create essential civic and social infrastructure including state-of-the-art hospitals, universities and stadiums around the world.",
+    "Private system that manages the execution of works on channel wiring of an Internet cable in Australia. Users are assigned tasks/jobs, they write their progress on each task at the end of each working day and this way the progress is tracked. The system manages the calculation of payment for work and transfers the data directly to the payment system. There is also a reporting functionality."
+  ],
+  "myTasks": [
+    "Developed editable user access system for admins dashboard",
+    "Refactoring and code review.",
+    "Manual testing and writing RSpec tests",
+    "Developed Gem for creating forms (like google forms). Is private and stored on gemfury.com"
+  ],
+  "techList": [
+    {
+      "name": "CKEditor",
+      "url": "https://ckeditor.com"
+    },
+    {
+      "name": "jQuery",
+      "url": "https://jquery.com"
+    },
+    {
+      "name": "jQuery-UI",
+      "url": "https://jqueryui.com"
+    },
+    {
+      "name": "PostgreSQL",
+      "url": "https://www.postgresql.org"
+    },
+    {
+      "name": "Rails 4.2.7",
+      "url": "https://rubyonrails.org"
+    },
+    {
+      "name": "Redis",
+      "url": "https://redis.io"
+    },
+    {
+      "name": "RSpec",
+      "url": "https://rspec.info"
+    },
+    {
+      "name": "Ruby 2.2.1",
+      "url": "https://www.ruby-lang.org"
+    }
+  ]
+}

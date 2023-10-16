@@ -1,0 +1,68 @@
+{
+  "title": "Interpreters Travel",
+  "avaliable": true,
+  "img": {
+    "x": "/img/projects/0/1024x512.jpeg",
+    "2x": "/img/projects/0/2048x1024.jpeg",
+    "3x": "/img/projects/0/3072x1536.jpeg"
+  },
+  "date": {
+    "from": "24 Jul 2012",
+    "to": "12 Aug 2013"
+  },
+  "links": {
+    "website": {
+      "title": "Interpreters.travel",
+      "href": "https://www.interpreters.travel/"
+    },
+    "linkedin": {
+      "title": "LinkedIn",
+      "href": "https://www.linkedin.com/company/interpreters-travel/"
+    },
+    "youtube": {
+      "title": "YouTube",
+      "href": "https://www.youtube.com/channel/UCHdC6jw6SHFbuRXhOjSpLDw"
+    }
+  },
+  "description": [
+    "Interpreters.travel — is an easy, safe and reliable service which allows finding quickly a suitable interpreter and ordering interpretation services worldwide directly on the web site or by means of a mobile device.",
+    "Whatever event is scheduled - a business meeting with foreign partners or a tourist excursion, a visit to an industry exhibition, a seminar or a consultation in a foreign clinic, you will have no trouble finding an interpreter to match your case and your budget in more than 4500 cities and 170 countries worldwide.",
+    "You can find an interpreter in the city you need, for the language you need and exact time slot. Afterwards you're also able to filter the given search results by specific criteria."
+  ],
+  "myTasks": [
+    "Tasks related to Backoffice (UI + backend)",
+    "Optimization SQL query for Interpreters search functional",
+    "Manual testing and writing RSpec tests",
+    "Functional for user data editing (avatar, pricing, etc.)"
+  ],
+  "techList": [
+    {
+      "name": "Jcrop.js",
+      "url": "https://jcrop.com"
+    },
+    {
+      "name": "jQuery",
+      "url": "https://jquery.com"
+    },
+    {
+      "name": "jQuery-UI",
+      "url": "https://jqueryui.com"
+    },
+    {
+      "name": "PostgreSQL",
+      "url": "https://www.postgresql.org"
+    },
+    {
+      "name": "Rails 4",
+      "url": "https://rubyonrails.org"
+    },
+    {
+      "name": "RSpec",
+      "url": "https://rspec.info"
+    },
+    {
+      "name": "Ruby 1.9",
+      "url": "https://www.ruby-lang.org"
+    }
+  ]
+}

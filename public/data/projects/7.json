@@ -1,0 +1,84 @@
+{
+  "title": "Chime",
+  "avaliable": true,
+  "img": {
+    "x": "/img/projects/7/1024x512.jpeg",
+    "2x": "/img/projects/7/2048x1024.jpeg",
+    "3x": "/img/projects/7/3072x1536.jpeg"
+  },
+  "date": {
+    "from": "5 Oct 2021",
+    "to": "20 Jan 2022"
+  },
+  "links": {
+    "website": {
+      "title": "chime.com",
+      "href": "https://www.chime.com"
+    },
+    "twitter": {
+      "title": "Twitter",
+      "href": "https://twitter.com/chime"
+    },
+    "instagram": {
+      "title": "Instagram",
+      "href": "https://www.instagram.com/Chime"
+    },
+    "facebook": {
+      "title": "Facebook",
+      "href": "https://www.facebook.com/chime"
+    }
+  },
+  "description": [
+    "Chime is a financial technology company founded on the premise that basic banking services should be helpful, easy and free. We want to profit with our members, not from them. That’s why our model doesn’t rely on overdraft fees, monthly service fees, service fees, minimum balance requirements, and more.",
+    "Chime partner with regional banks to design member first financial products. This creates a more competitive market with better, lower-cost options for everyday Americans who aren’t being served well by traditional banks."
+  ],
+  "myTasks": [
+    "Development and maintenance of QA tools for testing system services.",
+    "DataGenerator service - create new users, add cards, create transactions etc. (Sending requests to different services and save data to DB)",
+    "Galileo Simulator - service contain almost all of the logic to simulate Galileo API",
+    "Refactoring and code review.",
+    "Manual testing and writing RSpec tests, API testing using Postman"
+  ],
+  "techList": [
+    {
+      "name": "Amazon S3",
+      "url": "https://aws.amazon.com/s3"
+    },
+    {
+      "name": "Docker",
+      "url": "https://www.docker.com"
+    },
+    {
+      "name": "DynamoDB",
+      "url": "https://aws.amazon.com/dynamodb"
+    },
+    {
+      "name": "GraphQL",
+      "url": "https://graphql.org"
+    },
+    {
+      "name": "PostgreSQL",
+      "url": "https://www.postgresql.org"
+    },
+    {
+      "name": "Rails 6.1.4",
+      "url": "https://rubyonrails.org"
+    },
+    {
+      "name": "Redis",
+      "url": "https://redis.io"
+    },
+    {
+      "name": "RSpec",
+      "url": "https://rspec.info"
+    },
+    {
+      "name": "Ruby 2.5.0",
+      "url": "https://www.ruby-lang.org"
+    },
+    {
+      "name": "Tilt",
+      "url": "https://tilt.dev"
+    }
+  ]
+}

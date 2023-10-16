@@ -1,0 +1,26 @@
+{
+  "name": "alexmercury",
+  "image": "alexmercury:latest",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "runArgs": [
+    "--name=alexmercury",
+    "--tty",
+    "--volume=alexmercury_node_modules:${containerWorkspaceFolder}/node_modules"
+  ],
+  "postStartCommand": "sh .devcontainer/start.sh",
+  "shutdownAction": "stopContainer",
+  "customizations": {
+		"vscode": {
+			"settings": {},
+			"extensions": [
+        "dbaeumer.vscode-eslint",
+        "ms-vscode.live-server",
+        "stylelint.vscode-stylelint",
+        "bradlc.vscode-tailwindcss"
+      ]
+		}
+  }
+}

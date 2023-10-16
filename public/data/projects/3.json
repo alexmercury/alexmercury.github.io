@@ -1,0 +1,73 @@
+{
+  "title": "Tipnpost",
+  "avaliable": true,
+  "img": {
+    "x": "/img/projects/3/1024x512.jpeg",
+    "2x": "/img/projects/3/2048x1024.jpeg",
+    "3x": "/img/projects/3/3072x1536.jpeg"
+  },
+  "date": {
+    "from": "19 Jul 2017",
+    "to": "30 Oct 2017"
+  },
+  "links": {
+    "website": {
+      "title": "tipnpost.com",
+      "href": "https://tipnpost.com"
+    },
+    "twitter": {
+      "title": "Twitter",
+      "href": "https://twitter.com/tipnpost"
+    },
+    "instagram": {
+      "title": "Instagram",
+      "href": "https://www.instagram.com/tipnpost"
+    },
+    "facebook": {
+      "title": "Facebook",
+      "href": "https://www.facebook.com/tipnpost"
+    }
+  },
+  "description": [
+    "Tipnpost is cloud-based interactive software that connects Bar, Restaurant, and Nightclub staff, of all sizes, for the purpose of sharing, organizing, and managing tips. Our easy to use interface features advanced Reports and simple Tip Forms with automatic calculations, reducing errors, saving you valuable time.",
+    "Web app helps extremely easy to organize tips so that staff know exactly what they made. Admin web dashboard use Angular 1.5.8 and Rails 4.2.6. I developed the Tipnpost integration module with the restaurant's POS terminal, but there were some difficulties because not all the data we need can be provided by the POS terminal."
+  ],
+  "myTasks": [
+    "Added omnivore.io to the \"Add-ons\" section and created a paid addon that will ask the user to install and use it with separate Braintree subscriptions.",
+    "Developed a ruby wrapper for the Omnivore API",
+    "Functionality for adding a client POS-terminal in Tipnpost.",
+    "Get all the data we need for Tipnpost (POS users, product categories, etc.)",
+    "Separate the POS terminal data on drinks/food, charge/cash tips from Omnivore and enter them in the application tip form.",
+    "Manual testing and writing RSpec tests"
+  ],
+  "techList": [
+    {
+      "name": "Angular 1.5.8",
+      "url": "https://angular.io"
+    },
+    {
+      "name": "Braintree",
+      "url": "https://www.braintreepayments.com"
+    },
+    {
+      "name": "Omnivore API",
+      "url": "https://omnivore.io/api"
+    },
+    {
+      "name": "PostgreSQL",
+      "url": "https://www.postgresql.org"
+    },
+    {
+      "name": "Rails 4.2.6",
+      "url": "https://rubyonrails.org"
+    },
+    {
+      "name": "RSpec",
+      "url": "https://rspec.info"
+    },
+    {
+      "name": "Ruby 2.2.1",
+      "url": "https://www.ruby-lang.org"
+    }
+  ]
+}

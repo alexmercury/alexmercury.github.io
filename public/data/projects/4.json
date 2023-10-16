@@ -1,0 +1,56 @@
+{
+  "title": "artGuideBook",
+  "avaliable": false,
+  "img": {
+    "x": "/img/projects/4/1024x512.jpeg",
+    "2x": "/img/projects/4/2048x1024.jpeg",
+    "3x": "/img/projects/4/3072x1536.jpeg"
+  },
+  "img2": {
+    "x": "/img/projects/4/img/1024x512.jpeg",
+    "2x": "/img/projects/4/img/2048x1024.jpeg",
+    "3x": "/img/projects/4/img/3072x1536.jpeg"
+  },
+  "date": {
+    "from": "3 Nov 2017",
+    "to": "28 Dec 2017"
+  },
+  "links": {},
+  "description": [
+    "It is an application for art lovers and travelers. App allows the user to search and find any galleries and museums in nearby location or in any selected state/city/neighborhood in USA. User can look at galleries in list view and also in map view. Some of the galleries have their personal info pages with photo and description.",
+    "App has an event calendar, where the user can search for events depend on the selected date and location. The artGuideBook gives a user a capability to open a map and chart a route to the selected gallery/museum."
+  ],
+  "myTasks": [
+    "Develop REST API application from scratch (used RailsAPI)",
+    "Creation and improvement of the admin dashboard panel gem \"ActiveAdmin\"",
+    "Using PostGIS extension for search (method ST_Distance, etc.)",
+    "Manual testing and writing RSpec tests",
+    "Deployment of the project on Heroku in production and staging modes"
+  ],
+  "techList": [
+    {
+      "name": "Heroku",
+      "url": "https://www.heroku.com"
+    },
+    {
+      "name": "PostGIS",
+      "url": "https://postgis.net"
+    },
+    {
+      "name": "PostgreSQL",
+      "url": "https://www.postgresql.org"
+    },
+    {
+      "name": "Rails 5.1.4",
+      "url": "https://rubyonrails.org"
+    },
+    {
+      "name": "RSpec",
+      "url": "https://rspec.info"
+    },
+    {
+      "name": "Ruby 2.4.2",
+      "url": "https://www.ruby-lang.org"
+    }
+  ]
+}
