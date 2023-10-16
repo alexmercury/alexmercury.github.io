@@ -30,13 +30,11 @@
       "title": "Interpreters Travel",
       "year": 2013,
       "img": {
-        "x": "/img/projects/0/x.jpeg",
-        "2x": "/img/projects/0/x2.jpeg",
-        "3x": "/img/projects/0/x3.jpeg",
-        "4x": "/img/projects/0/x4.jpeg",
-        "5x": "/img/projects/0/x5.jpeg",
-        "6x": "/img/projects/0/x6.jpeg",
-        "7x": "/img/projects/0/x7.jpeg"
+        "x": "/img/projects/0/512x256.jpeg",
+        "2x": "/img/projects/0/1024x512.jpeg",
+        "3x": "/img/projects/0/1536x768.jpeg",
+        "4x": "/img/projects/0/2048x1024.jpeg",
+        "5x": "/img/projects/0/2560x1280.jpeg"
       }
     },
     {
@@ -44,13 +42,11 @@
       "title": "MaxApp",
       "year": 2014,
       "img": {
-        "x": "/img/projects/1/x.jpeg",
-        "2x": "/img/projects/1/x2.jpeg",
-        "3x": "/img/projects/1/x3.jpeg",
-        "4x": "/img/projects/1/x4.jpeg",
-        "5x": "/img/projects/1/x5.jpeg",
-        "6x": "/img/projects/1/x6.jpeg",
-        "7x": "/img/projects/1/x7.jpeg"
+        "x": "/img/projects/1/512x256.jpeg",
+        "2x": "/img/projects/1/1024x512.jpeg",
+        "3x": "/img/projects/1/1536x768.jpeg",
+        "4x": "/img/projects/1/2048x1024.jpeg",
+        "5x": "/img/projects/1/2560x1280.jpeg"
       }
     },
     {
@@ -58,13 +54,11 @@
       "title": "PIMS",
       "year": 2015,
       "img": {
-        "x": "/img/projects/2/x.jpeg",
-        "2x": "/img/projects/2/x2.jpeg",
-        "3x": "/img/projects/2/x3.jpeg",
-        "4x": "/img/projects/2/x4.jpeg",
-        "5x": "/img/projects/2/x5.jpeg",
-        "6x": "/img/projects/2/x6.jpeg",
-        "7x": "/img/projects/2/x7.jpeg"
+        "x": "/img/projects/2/512x256.jpeg",
+        "2x": "/img/projects/2/1024x512.jpeg",
+        "3x": "/img/projects/2/1536x768.jpeg",
+        "4x": "/img/projects/2/2048x1024.jpeg",
+        "5x": "/img/projects/2/2560x1280.jpeg"
       }
     },
     {
@@ -72,13 +66,11 @@
       "title": "Tipnpost",
       "year": 2017,
       "img": {
-        "x": "/img/projects/3/x.jpeg",
-        "2x": "/img/projects/3/x2.jpeg",
-        "3x": "/img/projects/3/x3.jpeg",
-        "4x": "/img/projects/3/x4.jpeg",
-        "5x": "/img/projects/3/x5.jpeg",
-        "6x": "/img/projects/3/x6.jpeg",
-        "7x": "/img/projects/3/x7.jpeg"
+        "x": "/img/projects/3/512x256.jpeg",
+        "2x": "/img/projects/3/1024x512.jpeg",
+        "3x": "/img/projects/3/1536x768.jpeg",
+        "4x": "/img/projects/3/2048x1024.jpeg",
+        "5x": "/img/projects/3/2560x1280.jpeg"
       }
     },
     {
@@ -86,11 +78,11 @@
       "title": "artGuideBook",
       "year": 2017,
       "img": {
-        "x": "/img/projects/4/x.jpeg",
-        "2x": "/img/projects/4/x2.jpeg",
-        "3x": "/img/projects/4/x3.jpeg",
-        "4x": "/img/projects/4/x4.jpeg",
-        "5x": "/img/projects/4/x5.jpeg"
+        "x": "/img/projects/4/512x256.jpeg",
+        "2x": "/img/projects/4/1024x512.jpeg",
+        "3x": "/img/projects/4/1536x768.jpeg",
+        "4x": "/img/projects/4/2048x1024.jpeg",
+        "5x": "/img/projects/4/2560x1280.jpeg"
       }
     },
     {
@@ -98,13 +90,11 @@
       "title": "Eats Time",
       "year": 2018,
       "img": {
-        "x": "/img/projects/5/x.jpeg",
-        "2x": "/img/projects/5/x2.jpeg",
-        "3x": "/img/projects/5/x3.jpeg",
-        "4x": "/img/projects/5/x4.jpeg",
-        "5x": "/img/projects/5/x5.jpeg",
-        "6x": "/img/projects/5/x6.jpeg",
-        "7x": "/img/projects/5/x7.jpeg"
+        "x": "/img/projects/5/512x256.jpeg",
+        "2x": "/img/projects/5/1024x512.jpeg",
+        "3x": "/img/projects/5/1536x768.jpeg",
+        "4x": "/img/projects/5/2048x1024.jpeg",
+        "5x": "/img/projects/5/2560x1280.jpeg"
       }
     },
     {
@@ -112,13 +102,11 @@
       "title": "GroupBuy",
       "year": 2019,
       "img": {
-        "x": "/img/projects/6/x.jpeg",
-        "2x": "/img/projects/6/x2.jpeg",
-        "3x": "/img/projects/6/x3.jpeg",
-        "4x": "/img/projects/6/x4.jpeg",
-        "5x": "/img/projects/6/x5.jpeg",
-        "6x": "/img/projects/6/x6.jpeg",
-        "7x": "/img/projects/6/x7.jpeg"
+        "x": "/img/projects/6/512x256.jpeg",
+        "2x": "/img/projects/6/1024x512.jpeg",
+        "3x": "/img/projects/6/1536x768.jpeg",
+        "4x": "/img/projects/6/2048x1024.jpeg",
+        "5x": "/img/projects/6/2560x1280.jpeg"
       }
     },
     {
@@ -126,13 +114,11 @@
       "title": "Chime",
       "year": 2021,
       "img": {
-        "x": "/img/projects/7/x.jpeg",
-        "2x": "/img/projects/7/x2.jpeg",
-        "3x": "/img/projects/7/x3.jpeg",
-        "4x": "/img/projects/7/x4.jpeg",
-        "5x": "/img/projects/7/x5.jpeg",
-        "6x": "/img/projects/7/x6.jpeg",
-        "7x": "/img/projects/7/x7.jpeg"
+        "x": "/img/projects/7/512x256.jpeg",
+        "2x": "/img/projects/7/1024x512.jpeg",
+        "3x": "/img/projects/7/1536x768.jpeg",
+        "4x": "/img/projects/7/2048x1024.jpeg",
+        "5x": "/img/projects/7/2560x1280.jpeg"
       }
     },
     {
@@ -140,13 +126,11 @@
       "title": "Modularity",
       "year": 2022,
       "img": {
-        "x": "/img/projects/8/x.jpeg",
-        "2x": "/img/projects/8/x2.jpeg",
-        "3x": "/img/projects/8/x3.jpeg",
-        "4x": "/img/projects/8/x4.jpeg",
-        "5x": "/img/projects/8/x5.jpeg",
-        "6x": "/img/projects/8/x6.jpeg",
-        "7x": "/img/projects/8/x7.jpeg"
+        "x": "/img/projects/8/512x256.jpeg",
+        "2x": "/img/projects/8/1024x512.jpeg",
+        "3x": "/img/projects/8/1536x768.jpeg",
+        "4x": "/img/projects/8/2048x1024.jpeg",
+        "5x": "/img/projects/8/2560x1280.jpeg"
       }
     }
   ]
