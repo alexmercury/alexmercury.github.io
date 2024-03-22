@@ -8,10 +8,10 @@ body {
 
 .list-img-task {
   list-style-image: image-set(
-    url("img/task/16.png") 1x,
-    url("img/task/32.png") 2x,
-    url("img/task/64.png") 4x,
-    url("img/task/128.png") 6x
+    url("/img/task/16.png") 1x,
+    url("/img/task/32.png") 2x,
+    url("/img/task/64.png") 4x,
+    url("/img/task/128.png") 6x
   );
 }
 
