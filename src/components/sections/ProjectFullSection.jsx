@@ -11,7 +11,7 @@ const ProjectFullSection = function ({ project }) {
   }
 
   return (
-    <section className="h-full bg-white p-4 lg:p-6">
+    <section className="bg-white p-4 lg:p-6 overflow-auto">
       <ImgTabs images={images} />
 
       <div className="flex flex-col py-6 xl:flex-row">
