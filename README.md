@@ -4,10 +4,10 @@
 
 ## Development
 
-Run jekyll:
+Run Vite:
 
 ```shell
 
-bundle exec jekyll serve
+npm run dev
 
 ```

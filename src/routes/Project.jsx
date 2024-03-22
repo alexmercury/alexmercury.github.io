@@ -38,7 +38,7 @@ const Project = function () {
               leaveTo="left-full"
             >
               <Dialog.Panel
-                className="proj bg-white transition-all border-l border-gray-800"
+                className="proj bg-white transition-all border-l border-gray-800 max-h-screen overflow-hidden relative flex flex-col"
               >
                 <Dialog.Title
                   as="div"
