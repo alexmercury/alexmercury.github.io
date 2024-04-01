@@ -2,6 +2,7 @@ import PropTypes from "prop-types"
 import {
   Linkedin,
   Github,
+  Gitlab,
   Skype,
   Telegram
 } from "react-bootstrap-icons"
@@ -28,9 +29,10 @@ const AboutSection = function ({ profile }) {
             {profile.descriptions.join("\n")}
           </div>
 
-          <div className="flex flex-row space-x-6 items-center pt-8">
+          <div className="flex flex-row space-x-5 items-center pt-8">
             <SocialIconLink href={profile.social.linkedin} icon={Linkedin} />
             <SocialIconLink href={profile.social.github} icon={Github} />
+            <SocialIconLink href={profile.social.gitlab} icon={Gitlab} />
             <SocialIconLink href={profile.social.skype} icon={Skype} />
             <SocialIconLink href={profile.social.telegram} icon={Telegram} />
           </div>
